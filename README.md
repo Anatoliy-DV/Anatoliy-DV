@@ -81,7 +81,10 @@
 <br>
 
 ## 🪴 Практика и стажировка
-
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate.png)
+[<img src="/certificate(3).png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(3).png)
+[<img src="/certificate(2).png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(2).png)
+[<img src="/certificate(4).png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(4).png)
 
 <br>
 
