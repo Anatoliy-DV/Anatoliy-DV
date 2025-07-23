@@ -81,21 +81,21 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate.png)
-[<img src="/certificate(3).png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(3).png)
-[<img src="/certificate(2).png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(2).png)
-[<img src="/certificate(4).png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(4).png)
+
 
 <br>
 
 ## 🎒 Образование
-
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate.png)
+[<img src="/certificate(3).png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(3).png)
+[<img src="/certificate(2).png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(2).png)
+[<img src="/certificate(4).png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(4).png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gaymer92@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DAV211192)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
