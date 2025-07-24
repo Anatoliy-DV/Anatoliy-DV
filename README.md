@@ -86,8 +86,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate.png)
-[<img src="/certificate(3).png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Anatoliy-DV/Anatoliy-DV/refs/heads/main/Sertificate%20(3).png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://github.com/Anatoliy-DV/Anatoliy-DV/blob/main/Sertificate%20(3)%20(2).png)
+
 
 <br>
 <br>
